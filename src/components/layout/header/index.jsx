@@ -34,7 +34,8 @@ function Header() {
   };
 
   return (
-    <header className="border-2 min-h-[60px] px-10 py-3 relative tracking-wide relative z-50">
+<header className="border-2 min-h-[60px] px-10 py-3 relative tracking-wide z-50 bg-gradient-to-r from-[#fdfbfb] via-[#e3f2fd] to-[#fdfbfb] text-gray-800 ">
+
       <div className="flex flex-wrap items-center justify-between max-lg:gap-y-6 max-sm:gap-x-4">
         <div id="collapseMenu" className={getMenuClassNames()}>
           <button
