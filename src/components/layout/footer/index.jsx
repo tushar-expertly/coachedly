@@ -116,7 +116,7 @@ function Footer() {
           </form>
         </div>
         <p className="text-sm text-center text-gray-600">
-          © Copyright 2024, All Rights Reserved by Coachedly
+          © Copyright 2025, All Rights Reserved by Coachedly
         </p>
       </div>
     </section>
